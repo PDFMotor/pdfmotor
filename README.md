@@ -4,7 +4,7 @@ PDFMotor is a cloud-based JSON to PDF rendering API.
 
 
 
-<img width="1536" height="1024" alt="pdfmotor" src="https://github.com/user-attachments/assets/7707c374-4176-4159-9cb7-85e568658d34" />
+<img width="768" height="512" alt="pdfmotor" src="https://github.com/user-attachments/assets/7707c374-4176-4159-9cb7-85e568658d34" />
 
 
 
