@@ -6,6 +6,12 @@ PDFs are generated synchronously and streamed directly to the client.
 No documents, payloads, or personal data are stored on the server.  
 Authentication is handled via API keys.
 
+### Contact 
+
+Website: https://pdfmotor.net  
+Contact: info@pdfmotor.net
+
+
 ### Demo API key
 
 Generate a free demo API key instantly on the website.  
@@ -25,8 +31,5 @@ curl -X POST https://sandbox.pdfmotor.net/v1/render \
       { "label": "Email", "value": "john@example.com" }
     ]
   }' \
-  -o document.pdf```
+  -o document.pdf
 
-
-Website: https://pdfmotor.net  
-Contact: info@pdfmotor.net
