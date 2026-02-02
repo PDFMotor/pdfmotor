@@ -25,7 +25,7 @@ curl -X POST https://sandbox.pdfmotor.net/v1/render \
       { "label": "Email", "value": "john@example.com" }
     ]
   }' \
-  -o document.pdf
+  -o document.pdf```
 
 
 Website: https://pdfmotor.net  
