@@ -6,6 +6,11 @@ PDFs are generated synchronously and streamed directly to the client.
 No documents, payloads, or personal data are stored on the server.  
 Authentication is handled via API keys.
 
+### Demo API key
+
+Generate a free demo API key instantly on the website.  
+Demo keys do not expire and are limited in usage.
+
 ### Simple render request
 
 ```bash
@@ -21,7 +26,6 @@ curl -X POST https://sandbox.pdfmotor.net/v1/render \
     ]
   }' \
   -o document.pdf
-
 
 ---
 
