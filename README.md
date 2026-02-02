@@ -27,7 +27,6 @@ curl -X POST https://sandbox.pdfmotor.net/v1/render \
   }' \
   -o document.pdf
 
----
 
 Website: https://pdfmotor.net  
 Contact: info@pdfmotor.net
